@@ -1,6 +1,8 @@
 # ArvatoCapstone
 Capstone for DSND using Arvato project
+
 Files:
+
 Arvato jupyter notebook
 
 Required files to run:
